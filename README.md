@@ -4,7 +4,7 @@ The main file for interpreting the layout is called «Voice_Auth_With_Password.p
 
 ![image](https://user-images.githubusercontent.com/16018075/131023231-e4e770d3-8e91-4f56-8fd0-f77d5cdd9fe6.png)
 
-Figure 1 - The main window of the layout 
+Figure 1 - The main window of the layout
 Before starting to work with the program, you need to make sure that the microphone is working and positioned. It is recommended to take images in a quiet room, or from a microphone without an amplifier, so that in silence there is a band that fluctuates around zero. Next, you need to make sure the loudness of the pronunciation so that the final image does not turn out to be too loud or too quiet (Figure 2). If the signal goes beyond the window, you need to move the main microphone away from you, otherwise - move closer to it.
 
 ![image](https://user-images.githubusercontent.com/16018075/131023330-e54077d7-fa18-45d3-9a37-54a77b40ca1e.png)
